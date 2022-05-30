@@ -1,0 +1,22 @@
+# knowledge-accumulator
+Ingest publicly available data to extract insight on latest tends in tech.
+- Reddit
+  - Specific subreddits I care about like r/datascience or r/math
+- Github
+  - Repositories that I star
+- arXiv
+  - Certain subjects I care about like cs.dc (distributed computing)
+- hackernews
+  - do I want to track posts or comments that I favorite?
+- tech blogs such as:
+  - https://blog.cloudflare.com/
+  - https://engineering.fb.com/
+  - https://stackoverflow.blog/
+  - https://blog.robinhood.com/
+  - https://github.blog/
+  - etc
+- big tech social media like:
+  - teamblind.com
+  - levels.fyi
+- Twitter
+  - either accounts I follow, or tweets I like?
